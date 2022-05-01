@@ -39,7 +39,7 @@ public class CheckingAccount extends Account {
     public void withdrawalAmount(double amount){
         if ( (amount + (amount*(FEE/100)) <= balance)  ){
             balance -= amount-(amount*(FEE/100));
-            System.out.printf("Amount %.2f withdrawal successfully%n. Your new balance is %.2f.", amount,balance);
+            System.out.printf("Amount %.2f withdrawn successfully%n. Your new balance is %.2f.", amount,balance);
         } else {
             System.out.println(" Insufficient balance!");
         }
