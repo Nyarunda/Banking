@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68642dfa-999c-4aa1-bf76-6ca8d365d008" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28YDFbe14jvVzKVAvR2MIJVY29d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68642dfa-999c-4aa1-bf76-6ca8d365d008" name="Default Changelist" comment="" />
+      <created>1651384522702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651384522702</updated>
+      <workItem from="1651384525805" duration="2233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="https:/github.com/Nyarunda/Banking" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="109" key="#Project_Structure" timestamp="1651384538864">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="722" y="109" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1651384538864" />
+    <state x="826" y="205" key="FileChooserDialogImpl" timestamp="1651386114082">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="826" y="205" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1651386114082" />
+    <state x="555" y="93" key="SettingsEditor" timestamp="1651386867220">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="93" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1651386867220" />
+  </component>
+</project>
