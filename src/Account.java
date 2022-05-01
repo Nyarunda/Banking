@@ -2,7 +2,7 @@ public abstract class Account {
     //Account Number
     private int accountNo;
     //Balance
-    private double balance;
+    protected double balance;
 
     //Default Constructor
     public Account(){

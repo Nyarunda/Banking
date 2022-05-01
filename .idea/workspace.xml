@@ -29,7 +29,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651384522702</updated>
-      <workItem from="1651384525805" duration="2233000" />
+      <workItem from="1651384525805" duration="4646000" />
     </task>
     <servers />
   </component>
@@ -52,6 +52,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="https:/github.com/Nyarunda/Banking" />
+      <path value="C:/Program Files/Git" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
@@ -63,9 +64,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="826" y="205" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1651386114082" />
-    <state x="555" y="93" key="SettingsEditor" timestamp="1651386867220">
+    <state x="555" y="93" key="SettingsEditor" timestamp="1651387889424">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="555" y="93" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1651386867220" />
+    <state x="555" y="93" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1651387889424" />
   </component>
 </project>
