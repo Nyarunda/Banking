@@ -9,11 +9,11 @@ public class SavingAccount extends Account {
     /**
      * Assign our custom values
      *
-     * @param checkingAccountNumber
+     * @param savingsAccountNumber
      * @param interest
      */
-    public SavingAccount(int checkingAccountNumber, double interest) {
-        super(checkingAccountNumber);
+    public SavingAccount(int savingsAccountNumber, double interest) {
+        super(savingsAccountNumber);
         this.interestRate = interest;
     }
 

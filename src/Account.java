@@ -5,9 +5,7 @@ public abstract class Account {
     protected double balance;
 
     //Default Constructor
-    public Account(){
-
-    }
+    public Account(){ }
 
     public Account(int accountNo){
         this.accountNo = accountNo;
